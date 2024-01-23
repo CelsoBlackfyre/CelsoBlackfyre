@@ -4,7 +4,7 @@
 ## Eu sou Celso Martins, atualmente estudante de Desenvolvimento de Sistemas no SENAI - MG<br>
 
 ### Interesses:
-### - Cyber Security <br>
+### - Cybersecurity <br>
 ### - Full-Stack Web Development <br><br>
 
 ### Posso ser encontrado em:
