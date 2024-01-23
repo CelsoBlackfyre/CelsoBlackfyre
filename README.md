@@ -8,7 +8,7 @@
 
 <div>
   <a = "https://linktr.ee/CelsoBlackfyre">
-  <img height="180em" src= "![CelsoBlackfyre's Stats](https://github-readme-stats.vercel.app/api?username=CelsoBlackfyre&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=CelsoBlackfyre&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"/>
   <img height="180em" src = "![CelsoBlackfyre's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CelsoBlackfyre&theme=midnight-purple&hide_border=false)"/>
   <img height"180em" src = "![CelsoBlackfyre's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CelsoBlackfyre&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)"/>
 </div>
