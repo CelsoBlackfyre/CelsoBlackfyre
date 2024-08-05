@@ -1,13 +1,12 @@
 # Hello there!!<br><br> 
 
 
-## Eu sou Celso Carvalho Jr, atualmente estudante de Desenvolvimento de Sistemas no SENAI - MG<br>
+## I'm Celso Carvalho Jr, a Systems Development student at SENAI - MG.<br>
 
-### Interesses:
-### - Cybersecurity <br>
+### Interests:
 ### - Full-Stack Web Development <br><br>
 
-### Posso ser encontrado em:
+### Find me:
 ### [Linktree](https://linktr.ee/CelsoBlackfyre)
 # Tech Stack:
 
