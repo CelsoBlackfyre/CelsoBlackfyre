@@ -1,7 +1,7 @@
 # Hello there!!<br><br> 
 
-
-## I'm Celso Carvalho Jr, a Systems Development student at SENAI - MG.<br>
+## About me:
+### My name is Celso Carvalho Jr, I’m currently studying Systems Development at SENAI - MG. My goal is to become a professional in Full Stack Development. I love technology and have contact with it since I was a kid. Growing up in this environment made me want to learn how to use and be part of the creation of systems and apps. This is my space to share what I can do, what I’ve learned and hope that I can contribute to great things.<br>
 
 ### Interests:
 ### - Full-Stack Web Development <br><br>
