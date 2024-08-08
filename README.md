@@ -6,7 +6,7 @@
 ### Interests:
 ### - Full-Stack Web Development <br><br>
 
-### Find me:
+### Socials:
 ### [**Linktree**](https://linktr.ee/CelsoBlackfyre)
 # Tech Stack:
 
