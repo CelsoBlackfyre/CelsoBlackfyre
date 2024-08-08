@@ -7,7 +7,7 @@
 ### - Full-Stack Web Development <br><br>
 
 ### Find me:
-### [Linktree](https://linktr.ee/CelsoBlackfyre)
+### [**Linktree**](https://linktr.ee/CelsoBlackfyre)
 # Tech Stack:
 
 ### Programming Languages
