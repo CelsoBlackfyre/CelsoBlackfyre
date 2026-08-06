@@ -1,7 +1,11 @@
 # Hello there!!<br><br> 
 
 ## About Me
-My name is Celso Carvalho Jr, and I’m currently studying Systems Development at SENAI - MG. My goal is to become a professional in Full Stack Development. I love technology and have been immersed in it since I was a kid. Growing up in this environment made me want to learn how to use and be part of the creation of systems and apps. This is my space to share what I can do, what I’ve learned, and to contribute to great things.<br><br>
+I’m Celso Martins, a Software Developer from Belo Horizonte, Brazil, currently pursuing a B.S. in Software Engineering.
+
+I work across the full stack, building internal platforms, REST APIs, engineering automation, and AI-assisted workflows using C#/.NET, React, TypeScript, PostgreSQL, Docker, and Azure. My experience also includes real-time systems with SignalR, browser automation with Playwright, secure authentication and authorization, BIM/3D web applications, and CI/CD pipelines.
+
+I’m especially interested in internal tools, developer platforms, applied AI, and software that transforms complex technical processes into intuitive products.<br><br>
 
 ## Interests
 - Full-Stack Web Development <br><br>
