@@ -8,7 +8,7 @@ I work across the full stack, building internal platforms, REST APIs, engineerin
 I’m especially interested in internal tools, developer platforms, applied AI, and software that transforms complex technical processes into intuitive products.<br><br>
 
 ## Portfolio
-![Link](https://portfolio-orcin-tau-8by2ta8ag8.vercel.app/en) <br><br>
+- Link: https://portfolio-orcin-tau-8by2ta8ag8.vercel.app/en <br><br>
 
 ## Interests
 - Full-Stack Web Development <br><br>
